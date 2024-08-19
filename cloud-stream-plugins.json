@@ -1,0 +1,15 @@
+{
+    "name": "(Arabic,English,Turkish,Multilingual)-Plugins",
+    "description": "(Arabic,English,Turkish,Multilingual)-Plugins",
+    "manifestVersion": 1,
+    "pluginLists": [
+     "https://github.com/aymanbest/Arabico/raw/main/plugins.json",
+     "https://raw.githubusercontent.com/aymanbest/fasel/main/plugins.json",
+     "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/plugins.json",
+     "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual/raw/branch/builds/plugins.json",
+     "https://raw.githubusercontent.com/keyiflerolsun/Kekik-cloudstream/builds/plugins.json",
+     "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/plugins.json",
+     "https://raw.githubusercontent.com/Rowdy-Avocado/Rowdycado-Extensions/builds/plugins.json",
+     "https://raw.githubusercontent.com/keyiflerolsun/Kekik-cloudstream/builds/plugins.json"
+    ]
+}
