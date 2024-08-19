@@ -3,12 +3,13 @@
     "description": "(Arabic,English,Turkish,Multilingual)-Repository",
     "manifestVersion": 1,
     "pluginLists": [
-"https://codeberg.org/cloudstream/arab/raw/branch/builds/repo.json",
-"https://raw.githubusercontent.com/aymanbest/Arabico/main/repo.json",
-"https://codeberg.org/cloudstream/cloudstream-extensions/raw/branch/builds/repo.json",
-"https://codeberg.org/cloudstream/cloudstream-extensions-multilingual/raw/branch/builds/repo.json",
-"https://codeberg.org/cloudstream/cloudstream-extensions-hexated/raw/branch/builds/repo.json",
-"https://raw.githubusercontent.com/Rowdy-Avocado/Rowdycado-Extensions/builds/repo.json",
-"https://raw.githubusercontent.com/keyiflerolsun/Kekik-cloudstream/master/repo.json"
+    "https://codeberg.org/cloudstream/arab/raw/branch/builds/repo.json",
+    "https://raw.githubusercontent.com/aymanbest/Arabico/main/repo.json",
+    "https://codeberg.org/cloudstream/cloudstream-extensions/raw/branch/builds/repo.json",
+    "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual/raw/branch/builds/repo.json",
+    "https://codeberg.org/cloudstream/cloudstream-extensions-hexated/raw/branch/builds/repo.json",
+    "https://raw.githubusercontent.com/Rowdy-Avocado/Rowdycado-Extensions/builds/repo.json",
+    "https://raw.githubusercontent.com/keyiflerolsun/Kekik-cloudstream/master/repo.json",
+    "https://raw.githubusercontent.com/aymanbest/fasel/main/repo.json"
     ]
 }
